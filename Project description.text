@@ -1,0 +1,19 @@
+          Introducing the project and the problem it is solving
+ This is an address book project. It is a GUI based project using Tkinter and message module
+ It is used to store the contacts of close people for the case of family and friends, clients(small business).
+ This project helps in tracking people and where they stay.
+Since there contact is available reaching them can be easy when in need urgently.
+
+              How it works
+ in this project we some functionalities like add, edit, delete, view, reset, search and exit.
+ The user adds the contacts into a database through entering the credentials in the labeled entries
+Adding is done using the ADD button
+The added contact appears on the listbox in the right and also is saved in a sqlite database
+ The user can update an existing contact by selecting and clicking on the EDIT button.
+ The user can delete an existing contact by selecting and clicking on the DELETE button.
+ The person can view a detail of a contact by doing the same procedure as updating and deleting by using VIEW button.
+The contact of interest will then appear on the labeled entries
+ One can search for a contact by using the search button
+This is through entering the name of the contact of interest in the label entry 'search'
+The name will appear on the listbox. From there you can perform any function
+EXIT button is for exiting the program
